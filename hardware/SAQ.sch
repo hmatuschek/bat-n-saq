@@ -70,17 +70,6 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/BAT85.pdf" H 4750 3050 50 
 	0    1    1    0   
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J1
-U 1 1 5DC81D73
-P 2650 3150
-F 0 "J1" H 2568 2825 50  0000 C CNN
-F 1 "Sens" H 2568 2916 50  0000 C CNN
-F 2 "TerminalBlock_RND:TerminalBlock_RND_205-00001_1x02_P5.00mm_Horizontal" H 2650 3150 50  0001 C CNN
-F 3 "~" H 2650 3150 50  0001 C CNN
-	1    2650 3150
-	-1   0    0    1   
-$EndComp
-$Comp
 L Transistor_BJT:2N3904 Q1
 U 1 1 5DC82342
 P 3650 3050
@@ -509,7 +498,7 @@ U 1 1 5DD3D900
 P 4900 5650
 F 0 "C7" H 4785 5604 50  0000 R CNN
 F 1 "47n" H 4785 5695 50  0000 R CNN
-F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 4938 5500 50  0001 C CNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 4938 5500 50  0001 C CNN
 F 3 "~" H 4900 5650 50  0001 C CNN
 	1    4900 5650
 	-1   0    0    1   
@@ -794,7 +783,7 @@ U 1 1 5DF3B341
 P 1150 1500
 F 0 "H1" V 1387 1503 50  0000 C CNN
 F 1 "MountingHole_Pad" V 1296 1503 50  0000 C CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 1150 1500 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1150 1500 50  0001 C CNN
 F 3 "~" H 1150 1500 50  0001 C CNN
 	1    1150 1500
 	0    -1   -1   0   
@@ -805,7 +794,7 @@ U 1 1 5DF3F824
 P 1150 1850
 F 0 "H2" V 1387 1853 50  0000 C CNN
 F 1 "MountingHole_Pad" V 1296 1853 50  0000 C CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 1150 1850 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1150 1850 50  0001 C CNN
 F 3 "~" H 1150 1850 50  0001 C CNN
 	1    1150 1850
 	0    -1   -1   0   
@@ -816,7 +805,7 @@ U 1 1 5DF3FECB
 P 1150 2200
 F 0 "H3" V 1387 2203 50  0000 C CNN
 F 1 "MountingHole_Pad" V 1296 2203 50  0000 C CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 1150 2200 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1150 2200 50  0001 C CNN
 F 3 "~" H 1150 2200 50  0001 C CNN
 	1    1150 2200
 	0    -1   -1   0   
@@ -827,7 +816,7 @@ U 1 1 5DF404EF
 P 1150 2550
 F 0 "H4" V 1387 2553 50  0000 C CNN
 F 1 "MountingHole_Pad" V 1296 2553 50  0000 C CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via" H 1150 2550 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1150 2550 50  0001 C CNN
 F 3 "~" H 1150 2550 50  0001 C CNN
 	1    1150 2550
 	0    -1   -1   0   
@@ -966,4 +955,20 @@ Wire Wire Line
 Connection ~ 2900 5800
 Wire Wire Line
 	2900 5800 3050 5800
+$Comp
+L Connector_Generic:Conn_01x03 J1
+U 1 1 5DCBF590
+P 2650 3050
+F 0 "J1" H 2568 2725 50  0000 C CNN
+F 1 "Sense" H 2568 2816 50  0000 C CNN
+F 2 "TerminalBlock_RND:TerminalBlock_RND_205-00013_1x03_P5.00mm_Horizontal" H 2650 3050 50  0001 C CNN
+F 3 "~" H 2650 3050 50  0001 C CNN
+	1    2650 3050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2850 2950 2950 2950
+Wire Wire Line
+	2950 2950 2950 3050
+Connection ~ 2950 3050
 $EndSCHEMATC
