@@ -7,7 +7,7 @@ Der Fledermausdetektorbausatz von [Franzis](https://www.franzis.de/maker/bausaet
 Hier versuchen wir ein kleines Bausatzprojekt für einen gleichwertigen Empfänger/Fledermausdetektor. Dieser sollte mit absoluten Standardbauteilen auskommen und keine SMD Bauelemente verwenden. Alle Elemente sollten direkt auf die Platine gelötet werden und auch das "Gehäuse" sollte aus Platinenmaterial bestehen.
 
 ## Todo
- - [ ] Prototyp auf Lochraster aufbauen.
+ - [ ] [Prototyp](https://github.com/hmatuschek/bat-n-saq/raw/master/hardware/SAQ_scm.pdf) auf Lochraster aufbauen.
  - [ ] Prototyp als Fledermausdetektor testen.
  - [ ] Prototyp als Empfänger testen.
  - [ ] Ggf., HF-Frontend überarbeiten.
