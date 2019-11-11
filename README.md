@@ -28,7 +28,7 @@ Hier versuchen wir ein kleines Bausatzprojekt für einen gleichwertigen Empfäng
 | R3         | 560k | METALL 560K | -- | 0,049€ |
 | RV2        | 50k Lin | RK09K113-LIN50K | -- | 0,99€ |
 | RV1        | 100k Lin | RK09K113-LIN100K | -- | 0,99€ |
-| C1         | 680p NP0 | NPO-5 680P | -- | 0,10€ |
+| C1         | 680p NP0 | NPO-2,5 680P | -- | 0,10€ |
 | C2 C4 C5 C8 C9 C10 | 10n | Z5U-2,5 10N| -- | 0,05€ |
 | C12 C7     | 47n | Z5U-2,5 47N | -- | 0,07€ |
 | C11 C14    | 10u Elko | RAD 10/35| -- | 0,02€ |
@@ -37,11 +37,11 @@ Hier versuchen wir ein kleines Bausatzprojekt für einen gleichwertigen Empfäng
 | Q1         | 2N3904 | 2N 3904| -- | 0,04€ |
 | U1         | LM555 | NE555 DIP | -- | 0,17€ |
 | U2         | LM386 | LM386 DIP | -- | 0,22€ |
-| SW1        | SPDT | -- | 1569017 | 0,71€ |
-| J1         | Schraub-Terminal  | RND 205-00012 | -- | 0,19€ |
+| SW1        | SPDT | -- | 1570488 | 0,71€ |
+| J1         | Schraub-Terminal  | RND 205-00012 | -- | 0,25€ |
 | J3         | Stereo Klinke mit Schalter | EBS 35 | -- | 0,29€ |
 | --         | Ultraschallempfänger | -- | 507764 | 2.61€ | 
 | --         | 9V Clip | CLIP 9V | -- | 0,29€ |
 | --         | Paltienen | -- | -- | ???€ |
-| Summe:     | -- | -- | -- | 7,91€ + X |   
+| Summe:     | -- | -- | -- | 7,97€ + X |   
 
