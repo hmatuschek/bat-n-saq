@@ -27,5 +27,5 @@ Versuch eines Bausatzes für Schüler und Studentengruppen von Y09 und Y07.
 | SW1        | SPDT | -- | 1569017 | 0,71€ |
 | J1         | Schraub-Terminal  | RND 205-00012 | -- | 0,19€ |
 | J3         | Stereo Klinke mit Schalter | EBS 35 | -- | 0,29€ |
-| --         | Ultraschallempfäönger | -- | 507764 | 2.61€ | 
+| --         | Ultraschallempfänger | -- | 507764 | 2.61€ | 
 
