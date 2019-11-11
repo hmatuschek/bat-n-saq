@@ -41,4 +41,7 @@ Hier versuche ich ein kleines Bausatzprojekt für einen gleichwertigen Empfänge
 | J1         | Schraub-Terminal  | RND 205-00012 | -- | 0,19€ |
 | J3         | Stereo Klinke mit Schalter | EBS 35 | -- | 0,29€ |
 | --         | Ultraschallempfänger | -- | 507764 | 2.61€ | 
+| --         | 9V Clip | CLIP 9V | -- | 0,29€ |
+| --         | Paltienen | -- | -- | ???€ |
+| Summe:     | -- | -- | -- | 7,91€ + X |   
 
