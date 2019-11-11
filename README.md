@@ -14,6 +14,7 @@ Hier versuchen wir ein kleines Bausatzprojekt für einen gleichwertigen Empfäng
  - [ ] Rev.1 Platinen für Schaltung und Gehäuse.
  - [ ] Probeaufbau mit Schülern.
  - [ ] Bausätze zusammenstellen.
+ - [ ] Baumappe schreiben.
 
 ## Bill of Material
 | Element(e) | Wert/Typ |  Reichelt  | Conrad | Preis (10) |
