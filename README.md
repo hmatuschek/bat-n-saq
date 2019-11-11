@@ -2,6 +2,19 @@
 
 Versuch eines Bausatzes für Schüler und Studentengruppen von Y09 und Y07.
 
+Der Fledermausdetektorbausatz von [Franzis](https://www.franzis.de/maker/bausaetze/fledermausdetektor-zum-selberbauen-bausatz) eignet sich auch hervorragend als [Empfänger](https://www.youtube.com/watch?v=Cch6r8CrXTE) für den VLF Sender [SAQ](https://alexander.n.se/die-radiostation-saq-grimeton/?lang=de). Leider ist der darin enthaltene AM/FM Empfängerbaustein [CD2003](http://www.ak-modul-bus.de/stat/am_fm_empfaenger_cd2003,pd950!0,,CD2003.html) wenn überhaupt, nur noch als SMD Bauelement zu bekommen. Dies macht den Aufbau für Schüler und Studenen schwierig. 
+
+Hier versuche ich ein kleines Bausatzprojekt für einen gleichwertigen Empfänger/Fledermausdetektor. Dieser sollte mit absoluten Standardbauteilen auskommen und keine SMD Bauelemente verwenden. Alle Elemente sollten direkt auf die Platine gelötet werden und auch das "Gehäuse" sollte aus Platinenmaterial bestehen.
+
+## Todo
+ - [ ] Prototyp auf Lochraster aufbauen.
+ - [ ] Prototyp als Fledermausdetektor testen.
+ - [ ] Prototyp als Empfänger testen.
+ - [ ] Ggf., HF-Frontend überarbeiten.
+ - [ ] Rev.1 Platinen für Schaltung und Gehäuse.
+ - [ ] Probeaufbau mit Schülern.
+ - [ ] Bausätze zusammenstellen.
+
 ## Bill of Material
 | Element(e) | Wert/Typ |  Reichelt  | Conrad | Preis (10) |
 | ---------- | -------- | ---------- | ------ | ---------- |
