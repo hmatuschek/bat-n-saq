@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 11)
+    (drawings 12)
     (tracks 85)
     (zones 0)
     (modules 40)
@@ -2454,6 +2454,9 @@
     )
   )
 
+  (gr_text "DM3MAT\n(c) 2019" (at 146.05 99.06) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (dimension 60.96 (width 0.15) (layer Dwgs.User)
     (gr_text "60,960 mm" (at 149.86 127.03) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
