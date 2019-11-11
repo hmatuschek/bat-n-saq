@@ -1,6 +1,6 @@
 # Bat-n-Saq -- Ein Felderbausdetektor und SAQ-empfänger
 
-Versuch eines Bausatzes für Schüler und Studentengruppen von Y09 und Y07.
+Versuch eines Bausatzes für Schüler und Studentengruppen von [Y09](https://www.darc.de/der-club/distrikte/y/ortsverbaende/09/) und [Y07](https://www.darc.de/der-club/distrikte/y/ortsverbaende/07/).
 
 Der Fledermausdetektorbausatz von [Franzis](https://www.franzis.de/maker/bausaetze/fledermausdetektor-zum-selberbauen-bausatz) eignet sich auch hervorragend als [Empfänger](https://www.youtube.com/watch?v=Cch6r8CrXTE) für den VLF Sender [SAQ](https://alexander.n.se/die-radiostation-saq-grimeton/?lang=de). Leider ist der darin enthaltene AM/FM Empfängerbaustein [CD2003](http://www.ak-modul-bus.de/stat/am_fm_empfaenger_cd2003,pd950!0,,CD2003.html) wenn überhaupt, nur noch als SMD Bauelement zu bekommen. Dies macht den Aufbau für Schüler und Studenen schwierig. 
 
