@@ -1,4 +1,4 @@
-# Bat-n-Saq -- Ein Felderbausdetektor und SAQ-empfänger
+# Bat-n-SAQ -- Ein Feldermausdetektor und SAQ-empfänger
 
 Versuch eines Bausatzes für Schüler und Studentengruppen von [Y09](https://www.darc.de/der-club/distrikte/y/ortsverbaende/09/) und [Y07](https://www.darc.de/der-club/distrikte/y/ortsverbaende/07/).
 
